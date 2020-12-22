@@ -1,4 +1,4 @@
-## Plotting (y) = x^3 with python
+## Plotting (y) = x^3 with Python
 
 import the matplotlib package
 
